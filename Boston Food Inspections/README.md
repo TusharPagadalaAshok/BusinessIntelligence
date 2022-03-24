@@ -1,9 +1,7 @@
 ## Boston Food Inspections
 
 Data Preparation and Data Load via ALteryx Designer. The data is loaded onto database on the Azure Platform
-
-![Boston_FInal](https://user-images.githubusercontent.com/91435691/159815708-3fce6eb1-07c4-451d-b994-39597f68b7a9.jpg)
-
+![ALTERYX](https://user-images.githubusercontent.com/91435691/159815778-d1e9d547-af3a-4024-93b6-d2559c2dad4c.JPG)
 
 
 Dimensional Model:
